@@ -2,7 +2,7 @@
 Codeigniter 3 helper for generating uuid
 
 # How to
-You can easily add this helper to your autoload :
+Simple first put `uuid_helper.php` file to application\helpers. You can easily add this helper to your autoload :
 ```
 // application\config\autoload.php
 $autoload['helper'] = array('uuid');
